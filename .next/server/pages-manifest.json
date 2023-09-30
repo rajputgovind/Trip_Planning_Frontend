@@ -2,9 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/search-trip": "pages/search-trip.js",
-  "/": "pages/index.js",
-  "/details-page": "pages/details-page.js",
   "/admin/my-trip": "pages/admin/my-trip.js",
-  "/admin/trip-details": "pages/admin/trip-details.js"
+  "/admin/trip-details": "pages/admin/trip-details.js",
+  "/details-page": "pages/details-page.js"
 }
